@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/pbsgopi/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/pbsgopi/leetcode/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -33,9 +34,18 @@ Collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/pbsgopi/leetcode/tree/master/0234-palindrome-linked-list) |
 | [2846-robot-collisions](https://github.com/pbsgopi/leetcode/tree/master/2846-robot-collisions) |
 ## Simulation
 |  |
 | ------- |
 | [2846-robot-collisions](https://github.com/pbsgopi/leetcode/tree/master/2846-robot-collisions) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/pbsgopi/leetcode/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/pbsgopi/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
