@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/pbsgopi/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/pbsgopi/leetcode/tree/master/0455-assign-cookies) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/pbsgopi/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/pbsgopi/leetcode/tree/master/0234-palindrome-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/pbsgopi/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2846-robot-collisions](https://github.com/pbsgopi/leetcode/tree/master/2846-robot-collisions) |
 ## Simulation
 |  |
@@ -44,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/pbsgopi/leetcode/tree/master/0234-palindrome-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/pbsgopi/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
