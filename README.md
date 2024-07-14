@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/pbsgopi/leetcode/tree/master/0090-subsets-ii) |
+| [0219-contains-duplicate-ii](https://github.com/pbsgopi/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0455-assign-cookies](https://github.com/pbsgopi/leetcode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/pbsgopi/leetcode/tree/master/0494-target-sum) |
 | [2846-robot-collisions](https://github.com/pbsgopi/leetcode/tree/master/2846-robot-collisions) |
@@ -62,8 +63,13 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/pbsgopi/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pbsgopi/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0219-contains-duplicate-ii](https://github.com/pbsgopi/leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/pbsgopi/leetcode/tree/master/0090-subsets-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/pbsgopi/leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
