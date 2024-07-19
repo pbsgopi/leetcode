@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/pbsgopi/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/pbsgopi/leetcode/tree/master/0518-coin-change-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pbsgopi/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/pbsgopi/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/pbsgopi/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/pbsgopi/leetcode/tree/master/2846-robot-collisions) |
 ## Dynamic Programming
@@ -99,4 +100,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/pbsgopi/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pbsgopi/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/pbsgopi/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
