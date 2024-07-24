@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/pbsgopi/leetcode/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/pbsgopi/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/pbsgopi/leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0686-repeated-string-match](https://github.com/pbsgopi/leetcode/tree/master/0686-repeated-string-match) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pbsgopi/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1170-shortest-common-supersequence](https://github.com/pbsgopi/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/pbsgopi/leetcode/tree/master/1250-longest-common-subsequence) |
@@ -160,4 +161,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/pbsgopi/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/pbsgopi/leetcode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
