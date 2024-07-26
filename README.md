@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pbsgopi/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/pbsgopi/leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/pbsgopi/leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/pbsgopi/leetcode/tree/master/0072-edit-distance) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pbsgopi/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pbsgopi/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0142-linked-list-cycle-ii](https://github.com/pbsgopi/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pbsgopi/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pbsgopi/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/pbsgopi/leetcode/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pbsgopi/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/pbsgopi/leetcode/tree/master/0038-count-and-say) |
