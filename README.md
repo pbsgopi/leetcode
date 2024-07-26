@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1170-shortest-common-supersequence](https://github.com/pbsgopi/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/pbsgopi/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pbsgopi/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pbsgopi/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Backtracking
 |  |
 | ------- |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Graph
 |  |
 | ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pbsgopi/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2472-build-a-matrix-with-conditions](https://github.com/pbsgopi/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Topological Sort
 |  |
@@ -210,4 +212,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/pbsgopi/leetcode/tree/master/0948-sort-an-array) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pbsgopi/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
