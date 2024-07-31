@@ -1,7 +1,15 @@
 class Solution:
-    def longestPalindrome(self, S: str) -> str:
-        for i in range(len(S),-1,-1):
-            for j in range(len(S)-i+1):
-                rev = S[j:j+i]
-                if rev == rev[::-1]:
-                    return rev
+    def longestPalindrome(self, s: str) -> str:
+        n = len(s)
+        res = ""
+        def helper(i, j):
+            nonlocal res
+            while i >= 0 and j < n and s[i] == s[j]:
+                if len(s[i: j + 1]) > len(res):
+                    res = s[i: j + 1]
+                i -= 1
+                j += 1
+        for i in range(n):
+            helper(i, i)
+            helper(i, i + 1)
+        return res
