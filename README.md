@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/pbsgopi/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/pbsgopi/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/pbsgopi/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/pbsgopi/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/pbsgopi/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0347-top-k-frequent-elements](https://github.com/pbsgopi/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/pbsgopi/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -298,4 +299,9 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/pbsgopi/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/pbsgopi/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/pbsgopi/leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
