@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/pbsgopi/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/pbsgopi/leetcode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/pbsgopi/leetcode/tree/master/0525-contiguous-array) |
+| [0643-maximum-average-subarray-i](https://github.com/pbsgopi/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/pbsgopi/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/pbsgopi/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0948-sort-an-array](https://github.com/pbsgopi/leetcode/tree/master/0948-sort-an-array) |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/pbsgopi/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/pbsgopi/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/pbsgopi/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Tree
 |  |
