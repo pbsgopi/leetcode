@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1741-sort-array-by-increasing-frequency](https://github.com/pbsgopi/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pbsgopi/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/pbsgopi/leetcode/tree/master/2058-concatenation-of-array) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/pbsgopi/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/pbsgopi/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/pbsgopi/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/pbsgopi/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1207-delete-nodes-and-return-forest](https://github.com/pbsgopi/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pbsgopi/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pbsgopi/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/pbsgopi/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/pbsgopi/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/pbsgopi/leetcode/tree/master/2502-sort-the-people) |
 ## Bit Manipulation
@@ -219,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pbsgopi/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/pbsgopi/leetcode/tree/master/1508-longest-happy-prefix) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pbsgopi/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/pbsgopi/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pbsgopi/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/pbsgopi/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/pbsgopi/leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -289,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pbsgopi/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/pbsgopi/leetcode/tree/master/0948-sort-an-array) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/pbsgopi/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Shortest Path
 |  |
 | ------- |
