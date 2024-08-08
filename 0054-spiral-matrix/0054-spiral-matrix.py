@@ -1,8 +1,5 @@
 class Solution:
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
-        if not matrix:
-            return []
-
         rows, cols = len(matrix), len(matrix[0])
         top, bottom, left, right = 0, rows-1, 0, cols-1
         result = []
@@ -25,5 +22,4 @@ class Solution:
                 for i in range(bottom, top-1, -1):
                     result.append(matrix[i][left])
                 left += 1
-        
         return result
