@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/pbsgopi/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/pbsgopi/leetcode/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/pbsgopi/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pbsgopi/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/pbsgopi/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/pbsgopi/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/pbsgopi/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/pbsgopi/leetcode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pbsgopi/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/pbsgopi/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/pbsgopi/leetcode/tree/master/0226-invert-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/pbsgopi/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/pbsgopi/leetcode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pbsgopi/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/pbsgopi/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/pbsgopi/leetcode/tree/master/0226-invert-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/pbsgopi/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -254,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/pbsgopi/leetcode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pbsgopi/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/pbsgopi/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/pbsgopi/leetcode/tree/master/0226-invert-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pbsgopi/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
