@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0870-magic-squares-in-grid](https://github.com/pbsgopi/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/pbsgopi/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/pbsgopi/leetcode/tree/master/0948-sort-an-array) |
+| [0999-regions-cut-by-slashes](https://github.com/pbsgopi/leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1129-longest-string-chain](https://github.com/pbsgopi/leetcode/tree/master/1129-longest-string-chain) |
 | [1196-filling-bookcase-shelves](https://github.com/pbsgopi/leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pbsgopi/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/pbsgopi/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/pbsgopi/leetcode/tree/master/0525-contiguous-array) |
 | [0870-magic-squares-in-grid](https://github.com/pbsgopi/leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/pbsgopi/leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1129-longest-string-chain](https://github.com/pbsgopi/leetcode/tree/master/1129-longest-string-chain) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pbsgopi/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pbsgopi/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -260,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/pbsgopi/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/pbsgopi/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/pbsgopi/leetcode/tree/master/0226-invert-binary-tree) |
+| [0999-regions-cut-by-slashes](https://github.com/pbsgopi/leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pbsgopi/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pbsgopi/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Matrix
@@ -269,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0059-spiral-matrix-ii](https://github.com/pbsgopi/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0870-magic-squares-in-grid](https://github.com/pbsgopi/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/pbsgopi/leetcode/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/pbsgopi/leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/pbsgopi/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/pbsgopi/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/pbsgopi/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -380,4 +384,9 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0112-path-sum](https://github.com/pbsgopi/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/pbsgopi/leetcode/tree/master/0226-invert-binary-tree) |
+| [0999-regions-cut-by-slashes](https://github.com/pbsgopi/leetcode/tree/master/0999-regions-cut-by-slashes) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/pbsgopi/leetcode/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
