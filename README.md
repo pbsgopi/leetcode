@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/pbsgopi/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/pbsgopi/leetcode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pbsgopi/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pbsgopi/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/pbsgopi/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/pbsgopi/leetcode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pbsgopi/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pbsgopi/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/pbsgopi/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/pbsgopi/leetcode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pbsgopi/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pbsgopi/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -386,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/pbsgopi/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/pbsgopi/leetcode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pbsgopi/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/pbsgopi/leetcode/tree/master/0226-invert-binary-tree) |
