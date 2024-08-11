@@ -1,39 +1,70 @@
 class Solution:
-    def minDays(self, grid: List[List[int]]) -> int:
-        rows , cols = len(grid), len(grid[0])
+    # Direction vectors for moving up, down, left, and right
+    def __init__(self):
+        self.xDir = [0, 0, -1, 1]
+        self.yDir = [-1, 1, 0, 0]
 
-        def dfs(r,c, visit):
-            if (r < 0 or c < 0 or r == rows or c == cols or grid[r][c] == 0 or (r, c) in visit):
-                return
-            visit.add((r, c))
-            neighbours = [[r+1, c], [r, c+1], [r-1,c], [r, c-1]]
-            for nc, nr in neighbours:
-                dfs(nc, nr, visit)
- 
-        visit = set()
+    # Check if the cell (i, j) is within bounds, unvisited, and is land (1)
+    def is_safe(self, grid, i, j, visited):
+        return (0 <= i < len(grid) and 0 <= j < len(grid[0]) and not visited[i][j] and grid[i][j] == 1)
+
+    # Recursive DFS function to mark all connected parts of land as visited
+    def island_count(self, grid, i, j, visited):
+        # Mark the current cell as visited
+        visited[i][j] = True
+        
+        # Traverse all four possible directions
+        for k in range(4):
+            newRow = i + self.xDir[k]
+            newCol = j + self.yDir[k]
+            # If the new cell is safe, continue the DFS
+            if self.is_safe(grid, newRow, newCol, visited):
+                self.island_count(grid, newRow, newCol, visited)
+
+    # Function to count the number of connected land components in the grid
+    def count_land(self, grid, visited):
         count = 0
-        for r in range(rows):
-            for c in range(cols):
-                if grid[r][c] and (r, c) not in visit:
-                    dfs(r, c, visit)
+        # Iterate through all cells in the grid
+        for i in range(len(grid)):
+            for j in range(len(grid[0])):
+                # If we find unvisited land, start a new DFS
+                if grid[i][j] == 1 and not visited[i][j]:
+                    self.island_count(grid, i, j, visited)
                     count += 1
+        return count
+
+    # Main function to solve the problem
+    def minDays(self, grid):
+        rows = len(grid)
+        cols = len(grid[0])
         
-        if count != 1:
+        # Initialize a visited array to track visited cells
+        visited = [[False] * cols for _ in range(rows)]
+
+        # Check how many connected land components exist initially
+        count = self.count_land(grid, visited)
+        
+        # If more than one island or no land, no days are needed
+        if count > 1 or count == 0:
             return 0
-        
-        land = list(visit)
 
-        for r, c in land:
-            grid[r][c] = 0
-            visit = set()
-            count = 0
-            for r2 in range(rows):
-                for c2 in range(cols):
-                    if grid[r2][c2] and (r2, c2) not in visit:
-                        dfs(r2, c2, visit)
-                        count += 1
-            if count != 1:
-                return 1
-            grid[r][c] = 1
+        # Simulate the removal of each land cell and check if it splits the island
+        for i in range(rows):
+            for j in range(cols):
+                if grid[i][j] == 1:
+                    # Temporarily remove the land cell
+                    grid[i][j] = 0
+                    
+                    # Check the number of components after removal
+                    mat = [[False] * cols for _ in range(rows)]
+                    count2 = self.count_land(grid, mat)
+                    
+                    # Restore the removed cell
+                    grid[i][j] = 1
+                    
+                    # If the island is now split or there is no land, only one day is needed
+                    if count2 > 1 or count2 == 0:
+                        return 1   
 
+        # If removing one cell does not split the island, two days are needed
         return 2
