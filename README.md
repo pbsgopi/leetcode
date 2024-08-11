@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/pbsgopi/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/pbsgopi/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/pbsgopi/leetcode/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/pbsgopi/leetcode/tree/master/0456-132-pattern) |
 | [0494-target-sum](https://github.com/pbsgopi/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/pbsgopi/leetcode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/pbsgopi/leetcode/tree/master/0525-contiguous-array) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/pbsgopi/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0456-132-pattern](https://github.com/pbsgopi/leetcode/tree/master/0456-132-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pbsgopi/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/pbsgopi/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pbsgopi/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -359,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pbsgopi/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/pbsgopi/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/pbsgopi/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0456-132-pattern](https://github.com/pbsgopi/leetcode/tree/master/0456-132-pattern) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pbsgopi/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Math
 |  |
@@ -402,4 +405,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/pbsgopi/leetcode/tree/master/0999-regions-cut-by-slashes) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/pbsgopi/leetcode/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/pbsgopi/leetcode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
