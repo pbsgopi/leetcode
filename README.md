@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/pbsgopi/leetcode/tree/master/0226-invert-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/pbsgopi/leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/pbsgopi/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/pbsgopi/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pbsgopi/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pbsgopi/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/pbsgopi/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0129-sum-root-to-leaf-numbers](https://github.com/pbsgopi/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/pbsgopi/leetcode/tree/master/0226-invert-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/pbsgopi/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/pbsgopi/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pbsgopi/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pbsgopi/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/pbsgopi/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -327,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pbsgopi/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/pbsgopi/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/pbsgopi/leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -377,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/pbsgopi/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/pbsgopi/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Segment Tree
 |  |
 | ------- |
@@ -395,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/pbsgopi/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/pbsgopi/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -421,4 +426,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pbsgopi/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/pbsgopi/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
