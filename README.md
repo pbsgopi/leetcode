@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/pbsgopi/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/pbsgopi/leetcode/tree/master/0011-container-with-most-water) |
+| [0040-combination-sum-ii](https://github.com/pbsgopi/leetcode/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/pbsgopi/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/pbsgopi/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0090-subsets-ii](https://github.com/pbsgopi/leetcode/tree/master/0090-subsets-ii) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/pbsgopi/leetcode/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/pbsgopi/leetcode/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/pbsgopi/leetcode/tree/master/0494-target-sum) |
 ## Two Pointers
