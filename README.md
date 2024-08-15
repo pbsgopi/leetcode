@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/pbsgopi/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/pbsgopi/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/pbsgopi/leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/pbsgopi/leetcode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/pbsgopi/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0932-monotonic-array](https://github.com/pbsgopi/leetcode/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/pbsgopi/leetcode/tree/master/0948-sort-an-array) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/pbsgopi/leetcode/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/pbsgopi/leetcode/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/pbsgopi/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0890-lemonade-change](https://github.com/pbsgopi/leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pbsgopi/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/pbsgopi/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pbsgopi/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
