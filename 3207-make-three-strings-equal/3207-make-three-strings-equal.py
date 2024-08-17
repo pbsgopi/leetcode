@@ -1,15 +1,10 @@
-
 class Solution:
     def findMinimumOperations(self, s1: str, s2: str, s3: str) -> int:
-        l1 = len(s1) ; l2 = len(s2) ; l3 = len(s3)
-        key_n = min([l1, l2, l3])
-        
-        key_num = key_n
-        for i in range(key_n):
-            if s1[i]!=s2[i] or s2[i]!=s3[i]:
-                key_num = i
+        p, q, r = len(s1), len(s2), len(s3)
+    
+        for i in range(min(p, q, r)):
+            if s1[i] == s2[i] == s3[i]:
+                i += 1
+            else:
                 break
-
-        ans = l1+l2+l3-3*key_num if key_num != 0 else -1 
-        
-        return ans
+        return (p+q+r)-3*i if i != 0 else -1
