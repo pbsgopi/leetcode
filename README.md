@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2846-robot-collisions](https://github.com/pbsgopi/leetcode/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pbsgopi/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/pbsgopi/leetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
+| [3525-maximum-energy-boost-from-two-drinks](https://github.com/pbsgopi/leetcode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/pbsgopi/leetcode/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/pbsgopi/leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 ## Dynamic Programming
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1511-count-number-of-teams](https://github.com/pbsgopi/leetcode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pbsgopi/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/pbsgopi/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [3525-maximum-energy-boost-from-two-drinks](https://github.com/pbsgopi/leetcode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/pbsgopi/leetcode/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/pbsgopi/leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 ## Backtracking
