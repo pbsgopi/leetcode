@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1129-longest-string-chain](https://github.com/pbsgopi/leetcode/tree/master/1129-longest-string-chain) |
 | [1196-filling-bookcase-shelves](https://github.com/pbsgopi/leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pbsgopi/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1240-stone-game-ii](https://github.com/pbsgopi/leetcode/tree/master/1240-stone-game-ii) |
 | [1333-sort-the-jumbled-numbers](https://github.com/pbsgopi/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/pbsgopi/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/pbsgopi/leetcode/tree/master/1511-count-number-of-teams) |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1129-longest-string-chain](https://github.com/pbsgopi/leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/pbsgopi/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/pbsgopi/leetcode/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/pbsgopi/leetcode/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/pbsgopi/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pbsgopi/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pbsgopi/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -400,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0650-2-keys-keyboard](https://github.com/pbsgopi/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/pbsgopi/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/pbsgopi/leetcode/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/pbsgopi/leetcode/tree/master/1240-stone-game-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -419,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/pbsgopi/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/pbsgopi/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/pbsgopi/leetcode/tree/master/0525-contiguous-array) |
+| [1240-stone-game-ii](https://github.com/pbsgopi/leetcode/tree/master/1240-stone-game-ii) |
 ## Design
 |  |
 | ------- |
@@ -458,4 +462,5 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/pbsgopi/leetcode/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/pbsgopi/leetcode/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
