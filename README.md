@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2727-number-of-senior-citizens](https://github.com/pbsgopi/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/pbsgopi/leetcode/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pbsgopi/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/pbsgopi/leetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/pbsgopi/leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 ## Dynamic Programming
 |  |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/pbsgopi/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/pbsgopi/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/pbsgopi/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/pbsgopi/leetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 ## Tree
 |  |
 | ------- |
