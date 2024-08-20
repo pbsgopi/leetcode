@@ -30,5 +30,4 @@ class Solution(object):
                     current_sum = arr[i][0] + arr[j][0] + arr[k][0]
                     ans = max(ans, current_sum)
                     break  # Break after the first valid triplet is found
-        
         return ans
