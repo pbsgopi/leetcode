@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0719-find-k-th-smallest-pair-distance](https://github.com/pbsgopi/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/pbsgopi/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/pbsgopi/leetcode/tree/master/0890-lemonade-change) |
+| [0909-stone-game](https://github.com/pbsgopi/leetcode/tree/master/0909-stone-game) |
 | [0921-spiral-matrix-iii](https://github.com/pbsgopi/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0932-monotonic-array](https://github.com/pbsgopi/leetcode/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/pbsgopi/leetcode/tree/master/0948-sort-an-array) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0650-2-keys-keyboard](https://github.com/pbsgopi/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/pbsgopi/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/pbsgopi/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0909-stone-game](https://github.com/pbsgopi/leetcode/tree/master/0909-stone-game) |
 | [1105-uncrossed-lines](https://github.com/pbsgopi/leetcode/tree/master/1105-uncrossed-lines) |
 | [1129-longest-string-chain](https://github.com/pbsgopi/leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/pbsgopi/leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -397,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/pbsgopi/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0650-2-keys-keyboard](https://github.com/pbsgopi/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/pbsgopi/leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0909-stone-game](https://github.com/pbsgopi/leetcode/tree/master/0909-stone-game) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -451,4 +454,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/pbsgopi/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/pbsgopi/leetcode/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
