@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/pbsgopi/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/pbsgopi/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0090-subsets-ii](https://github.com/pbsgopi/leetcode/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/pbsgopi/leetcode/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/pbsgopi/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pbsgopi/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/pbsgopi/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/pbsgopi/leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/pbsgopi/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/pbsgopi/leetcode/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/pbsgopi/leetcode/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/pbsgopi/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pbsgopi/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/pbsgopi/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
