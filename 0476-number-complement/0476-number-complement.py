@@ -1,16 +1,13 @@
 class Solution:
     def findComplement(self, num: int) -> int:
-        n=bin(num)
-        s=str(n)
-        num=s[1:]
-        res=''
-        for i in num:
-            if i=='1':
-                res+='0'
+        s=bin(num)[2:]
+        arr=''
+        for i in s:
+            if i=='0':
+                arr+='1'
             else:
-                res+='1'
-        ans=res[1:]
-        count=0
-        for i in range(len(ans)):
-            count+=int(ans[i])*(2**(len(ans)-i-1))
-        return count
+                arr+='0' 
+        res=0
+        for i in range(len(arr)-1,-1,-1):
+            res=res+(int(arr[i])* 2**(len(arr)-i-1))
+        return res
