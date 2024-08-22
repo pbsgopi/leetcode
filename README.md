@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/pbsgopi/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pbsgopi/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/pbsgopi/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0200-number-of-islands](https://github.com/pbsgopi/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/pbsgopi/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pbsgopi/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/pbsgopi/leetcode/tree/master/0228-summary-ranges) |
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pbsgopi/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pbsgopi/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/pbsgopi/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/pbsgopi/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/pbsgopi/leetcode/tree/master/0226-invert-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/pbsgopi/leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/pbsgopi/leetcode/tree/master/0999-regions-cut-by-slashes) |
@@ -328,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0054-spiral-matrix](https://github.com/pbsgopi/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/pbsgopi/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0200-number-of-islands](https://github.com/pbsgopi/leetcode/tree/master/0200-number-of-islands) |
 | [0870-magic-squares-in-grid](https://github.com/pbsgopi/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/pbsgopi/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/pbsgopi/leetcode/tree/master/0999-regions-cut-by-slashes) |
@@ -459,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0111-minimum-depth-of-binary-tree](https://github.com/pbsgopi/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/pbsgopi/leetcode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pbsgopi/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0200-number-of-islands](https://github.com/pbsgopi/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/pbsgopi/leetcode/tree/master/0226-invert-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/pbsgopi/leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/pbsgopi/leetcode/tree/master/0999-regions-cut-by-slashes) |
@@ -467,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/pbsgopi/leetcode/tree/master/0200-number-of-islands) |
 | [0999-regions-cut-by-slashes](https://github.com/pbsgopi/leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/pbsgopi/leetcode/tree/master/1073-number-of-enclaves) |
 ## Monotonic Stack
