@@ -1,13 +1,11 @@
 class Solution:
     def findComplement(self, num: int) -> int:
-        s=bin(num)[2:]
-        arr=''
-        for i in s:
-            if i=='0':
-                arr+='1'
-            else:
-                arr+='0' 
-        res=0
-        for i in range(len(arr)-1,-1,-1):
-            res=res+(int(arr[i])* 2**(len(arr)-i-1))
-        return res
+        binary=bin(num)
+        complement=''
+        for i in range(len(binary)):
+            if i > 1:
+                if binary[i] == '0':
+                    complement +='1'
+                else:
+                    complement += '0'
+        return int(complement,2)
