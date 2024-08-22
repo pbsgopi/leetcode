@@ -1,22 +1,34 @@
+from typing import List
+
 class Solution:
     def numEnclaves(self, grid: List[List[int]]) -> int:
-        n=len(grid)
-        m=len(grid[0])
-        def dfs(i,j):
-            if i==-1 or j==-1 or i==n or j==m or grid[i][j]==0:
-                return 
-            grid[i][j]=0
-            dfs(i+1,j)
-            dfs(i-1,j)
-            dfs(i,j+1)
-            dfs(i,j-1)
+        def dfs(mat, x, y, r, c):
+            if x < 0 or x >= r or y < 0 or y >= c or mat[x][y] != 1:
+                return
+            mat[x][y] = 0
+            dfs(mat, x + 1, y, r, c)
+            dfs(mat, x - 1, y, r, c)
+            dfs(mat, x, y + 1, r, c)
+            dfs(mat, x, y - 1, r, c)
 
-        for i in range(n):
-            for j in range(m):
-                if (i==0 or j==0 or n-1==i or m-1==j) and grid[i][j]==1:
-                    dfs(i,j)
-        s=0
-        for i in range(n):
-            for j in range(m):
-                s+=grid[i][j]
-        return s
+        rows = len(grid)
+        cols = len(grid[0])
+        if rows == 0:
+            return 0
+        
+        for i in range(rows):
+            for j in [0, cols-1]:
+                if grid[i][j] == 1:
+                    dfs(grid, i, j, rows, cols)
+        for j in range(cols):
+            for i in [0, rows-1]:
+                if grid[i][j] == 1:
+                    dfs(grid, i, j, rows, cols)
+        
+        count = 0
+        for i in range(rows):
+            for j in range(cols):
+                if grid[i][j] == 1:
+                    count += 1
+        
+        return count
