@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0932-monotonic-array](https://github.com/pbsgopi/leetcode/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/pbsgopi/leetcode/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/pbsgopi/leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1036-rotting-oranges](https://github.com/pbsgopi/leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/pbsgopi/leetcode/tree/master/1073-number-of-enclaves) |
 | [1105-uncrossed-lines](https://github.com/pbsgopi/leetcode/tree/master/1105-uncrossed-lines) |
 | [1129-longest-string-chain](https://github.com/pbsgopi/leetcode/tree/master/1129-longest-string-chain) |
@@ -343,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0870-magic-squares-in-grid](https://github.com/pbsgopi/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/pbsgopi/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/pbsgopi/leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1036-rotting-oranges](https://github.com/pbsgopi/leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/pbsgopi/leetcode/tree/master/1073-number-of-enclaves) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/pbsgopi/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pbsgopi/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -482,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/pbsgopi/leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0922-possible-bipartition](https://github.com/pbsgopi/leetcode/tree/master/0922-possible-bipartition) |
 | [0999-regions-cut-by-slashes](https://github.com/pbsgopi/leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1036-rotting-oranges](https://github.com/pbsgopi/leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/pbsgopi/leetcode/tree/master/1073-number-of-enclaves) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pbsgopi/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Union Find
