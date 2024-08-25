@@ -1,27 +1,30 @@
+from typing import List
+
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        preMap = {i: [] for i in range(numCourses)}
-
-        for crs, pre in prerequisites:
-            preMap[crs].append(pre)
-
+        hashmap = {i: [] for i in range(numCourses)}
+        for i, j in prerequisites:
+            hashmap[i].append(j)
+        
+        visited = set()
         visiting = set()
-
-        def dfs(crs):
-            if crs in visiting:
+        
+        def dfs(node):
+            if node in visiting:
                 return False
-            if preMap[crs] == []:
+            if node in visited:
                 return True
-
-            visiting.add(crs)
-            for pre in preMap[crs]:
+            
+            visiting.add(node)
+            for pre in hashmap[node]:
                 if not dfs(pre):
                     return False
-            visiting.remove(crs)
-            preMap[crs] = []
+            
+            visiting.remove(node)
+            visited.add(node)
             return True
-
-        for c in range(numCourses):
-            if not dfs(c):
+        
+        for i in range(numCourses):
+            if not dfs(i):
                 return False
         return True
