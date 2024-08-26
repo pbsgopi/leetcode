@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/pbsgopi/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/pbsgopi/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/pbsgopi/leetcode/tree/master/0456-132-pattern) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/pbsgopi/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pbsgopi/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/pbsgopi/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pbsgopi/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/pbsgopi/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/pbsgopi/leetcode/tree/master/0226-invert-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/pbsgopi/leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/pbsgopi/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/pbsgopi/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/pbsgopi/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pbsgopi/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -339,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/pbsgopi/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/pbsgopi/leetcode/tree/master/0695-max-area-of-island) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/pbsgopi/leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/pbsgopi/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0922-possible-bipartition](https://github.com/pbsgopi/leetcode/tree/master/0922-possible-bipartition) |
 | [0999-regions-cut-by-slashes](https://github.com/pbsgopi/leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/pbsgopi/leetcode/tree/master/1073-number-of-enclaves) |
