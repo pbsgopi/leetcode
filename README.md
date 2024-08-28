@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/pbsgopi/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pbsgopi/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pbsgopi/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2035-count-sub-islands](https://github.com/pbsgopi/leetcode/tree/master/2035-count-sub-islands) |
 | [2058-concatenation-of-array](https://github.com/pbsgopi/leetcode/tree/master/2058-concatenation-of-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/pbsgopi/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pbsgopi/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -348,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1073-number-of-enclaves](https://github.com/pbsgopi/leetcode/tree/master/1073-number-of-enclaves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pbsgopi/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pbsgopi/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/pbsgopi/leetcode/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pbsgopi/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Matrix
 |  |
@@ -366,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1496-lucky-numbers-in-a-matrix](https://github.com/pbsgopi/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pbsgopi/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/pbsgopi/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2035-count-sub-islands](https://github.com/pbsgopi/leetcode/tree/master/2035-count-sub-islands) |
 | [2472-build-a-matrix-with-conditions](https://github.com/pbsgopi/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/pbsgopi/leetcode/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/pbsgopi/leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
@@ -517,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1036-rotting-oranges](https://github.com/pbsgopi/leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/pbsgopi/leetcode/tree/master/1073-number-of-enclaves) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pbsgopi/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/pbsgopi/leetcode/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
 | ------- |
@@ -527,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0922-possible-bipartition](https://github.com/pbsgopi/leetcode/tree/master/0922-possible-bipartition) |
 | [0999-regions-cut-by-slashes](https://github.com/pbsgopi/leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/pbsgopi/leetcode/tree/master/1073-number-of-enclaves) |
+| [2035-count-sub-islands](https://github.com/pbsgopi/leetcode/tree/master/2035-count-sub-islands) |
 ## Monotonic Stack
 |  |
 | ------- |
