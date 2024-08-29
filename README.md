@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pbsgopi/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/pbsgopi/leetcode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/pbsgopi/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/pbsgopi/leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/pbsgopi/leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/pbsgopi/leetcode/tree/master/0072-edit-distance) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/pbsgopi/leetcode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/pbsgopi/leetcode/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/pbsgopi/leetcode/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/pbsgopi/leetcode/tree/master/0494-target-sum) |
@@ -303,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pbsgopi/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/pbsgopi/leetcode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/pbsgopi/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pbsgopi/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/pbsgopi/leetcode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/pbsgopi/leetcode/tree/master/0044-wildcard-matching) |
