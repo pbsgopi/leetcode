@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/pbsgopi/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pbsgopi/leetcode/tree/master/0015-3sum) |
 | [0040-combination-sum-ii](https://github.com/pbsgopi/leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/pbsgopi/leetcode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/pbsgopi/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/pbsgopi/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0090-subsets-ii](https://github.com/pbsgopi/leetcode/tree/master/0090-subsets-ii) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pbsgopi/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/pbsgopi/leetcode/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/pbsgopi/leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/pbsgopi/leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/pbsgopi/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/pbsgopi/leetcode/tree/master/0115-distinct-subsequences) |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/pbsgopi/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pbsgopi/leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pbsgopi/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/pbsgopi/leetcode/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/pbsgopi/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/pbsgopi/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pbsgopi/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -184,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pbsgopi/leetcode/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pbsgopi/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/pbsgopi/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/pbsgopi/leetcode/tree/master/0456-132-pattern) |
@@ -542,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pbsgopi/leetcode/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/pbsgopi/leetcode/tree/master/0456-132-pattern) |
 ## Ordered Set
 |  |
