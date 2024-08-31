@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/pbsgopi/leetcode/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/pbsgopi/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/pbsgopi/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0739-daily-temperatures](https://github.com/pbsgopi/leetcode/tree/master/0739-daily-temperatures) |
 | [0870-magic-squares-in-grid](https://github.com/pbsgopi/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/pbsgopi/leetcode/tree/master/0890-lemonade-change) |
 | [0909-stone-game](https://github.com/pbsgopi/leetcode/tree/master/0909-stone-game) |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/pbsgopi/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/pbsgopi/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/pbsgopi/leetcode/tree/master/0456-132-pattern) |
+| [0739-daily-temperatures](https://github.com/pbsgopi/leetcode/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/pbsgopi/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pbsgopi/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/pbsgopi/leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -551,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pbsgopi/leetcode/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/pbsgopi/leetcode/tree/master/0456-132-pattern) |
+| [0739-daily-temperatures](https://github.com/pbsgopi/leetcode/tree/master/0739-daily-temperatures) |
 ## Ordered Set
 |  |
 | ------- |
