@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1129-longest-string-chain](https://github.com/pbsgopi/leetcode/tree/master/1129-longest-string-chain) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pbsgopi/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/pbsgopi/leetcode/tree/master/1217-relative-sort-array) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pbsgopi/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pbsgopi/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pbsgopi/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pbsgopi/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0476-number-complement](https://github.com/pbsgopi/leetcode/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/pbsgopi/leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/pbsgopi/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pbsgopi/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pbsgopi/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pbsgopi/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/pbsgopi/leetcode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
@@ -354,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1170-shortest-common-supersequence](https://github.com/pbsgopi/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/pbsgopi/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pbsgopi/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pbsgopi/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1508-longest-happy-prefix](https://github.com/pbsgopi/leetcode/tree/master/1508-longest-happy-prefix) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pbsgopi/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pbsgopi/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -544,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0525-contiguous-array](https://github.com/pbsgopi/leetcode/tree/master/0525-contiguous-array) |
 | [1240-stone-game-ii](https://github.com/pbsgopi/leetcode/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/pbsgopi/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pbsgopi/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pbsgopi/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Design
 |  |
