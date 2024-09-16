@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/pbsgopi/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/pbsgopi/leetcode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/pbsgopi/leetcode/tree/master/0525-contiguous-array) |
+| [0539-minimum-time-difference](https://github.com/pbsgopi/leetcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/pbsgopi/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/pbsgopi/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/pbsgopi/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/pbsgopi/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/pbsgopi/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/pbsgopi/leetcode/tree/master/0455-assign-cookies) |
+| [0539-minimum-time-difference](https://github.com/pbsgopi/leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/pbsgopi/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/pbsgopi/leetcode/tree/master/0948-sort-an-array) |
 | [1129-longest-string-chain](https://github.com/pbsgopi/leetcode/tree/master/1129-longest-string-chain) |
@@ -344,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0214-shortest-palindrome](https://github.com/pbsgopi/leetcode/tree/master/0214-shortest-palindrome) |
 | [0273-integer-to-english-words](https://github.com/pbsgopi/leetcode/tree/master/0273-integer-to-english-words) |
 | [0516-longest-palindromic-subsequence](https://github.com/pbsgopi/leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0539-minimum-time-difference](https://github.com/pbsgopi/leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/pbsgopi/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0583-delete-operation-for-two-strings](https://github.com/pbsgopi/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/pbsgopi/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -518,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0264-ugly-number-ii](https://github.com/pbsgopi/leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/pbsgopi/leetcode/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/pbsgopi/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0539-minimum-time-difference](https://github.com/pbsgopi/leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/pbsgopi/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/pbsgopi/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/pbsgopi/leetcode/tree/master/0650-2-keys-keyboard) |
