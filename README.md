@@ -395,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/pbsgopi/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/pbsgopi/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/pbsgopi/leetcode/tree/master/0226-invert-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/pbsgopi/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/pbsgopi/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/pbsgopi/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/pbsgopi/leetcode/tree/master/0695-max-area-of-island) |
@@ -644,4 +645,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/pbsgopi/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/pbsgopi/leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
