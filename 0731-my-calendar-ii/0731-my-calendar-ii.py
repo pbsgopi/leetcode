@@ -1,20 +1,17 @@
 class MyCalendarTwo:
-
     def __init__(self):
-        self.l=defaultdict(int)
+        self.calendar = []
+        self.overlaps = []
 
-    def book(self, start: int, end: int) -> bool:
-        self.l[start]+=1
-        self.l[end]-=1
-        c=0
-        for i in sorted(self.l.keys()):
-            c+=self.l[i]
-            if c>=3:
-                self.l[start]-=1
-                self.l[end]+=1
+    def book(self, start, end):
+        for i, j in self.overlaps:
+            if start < j and end > i:
                 return False
+        for i, j in self.calendar:
+            if start < j and end > i:
+                self.overlaps.append((max(start, i), min(end, j)))
+        self.calendar.append((start, end))
         return True
-
 
 # Your MyCalendarTwo object will be instantiated and called as such:
 # obj = MyCalendarTwo()
