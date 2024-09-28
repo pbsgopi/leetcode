@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0729-my-calendar-i](https://github.com/pbsgopi/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/pbsgopi/leetcode/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/pbsgopi/leetcode/tree/master/0739-daily-temperatures) |
+| [0859-design-circular-deque](https://github.com/pbsgopi/leetcode/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/pbsgopi/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/pbsgopi/leetcode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/pbsgopi/leetcode/tree/master/0906-walking-robot-simulation) |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/pbsgopi/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/pbsgopi/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/pbsgopi/leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/pbsgopi/leetcode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/pbsgopi/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/pbsgopi/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/pbsgopi/leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -579,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0729-my-calendar-i](https://github.com/pbsgopi/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/pbsgopi/leetcode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/pbsgopi/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/pbsgopi/leetcode/tree/master/0859-design-circular-deque) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -661,4 +664,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/pbsgopi/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/pbsgopi/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/pbsgopi/leetcode/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
