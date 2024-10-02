@@ -1,6 +1,9 @@
 class Solution:
     def arrayRankTransform(self, arr: List[int]) -> List[int]:
-        ranks = list(sorted(set(arr)))
+        a=sorted(list(set(arr)))
+        b={}
+        for i in range(len(a)):
+            b[a[i]]=i+1
         for i in range(len(arr)):
-            arr[i] = bisect_left(ranks, arr[i]) + 1
+            arr[i]=b[arr[i]]
         return arr
