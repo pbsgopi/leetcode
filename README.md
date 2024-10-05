@@ -681,4 +681,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/pbsgopi/leetcode/tree/master/0859-design-circular-deque) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/pbsgopi/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
