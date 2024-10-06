@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1741-sort-array-by-increasing-frequency](https://github.com/pbsgopi/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pbsgopi/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pbsgopi/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1923-sentence-similarity-iii](https://github.com/pbsgopi/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pbsgopi/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/pbsgopi/leetcode/tree/master/2035-count-sub-islands) |
 | [2058-concatenation-of-array](https://github.com/pbsgopi/leetcode/tree/master/2058-concatenation-of-array) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0719-find-k-th-smallest-pair-distance](https://github.com/pbsgopi/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1129-longest-string-chain](https://github.com/pbsgopi/leetcode/tree/master/1129-longest-string-chain) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pbsgopi/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1923-sentence-similarity-iii](https://github.com/pbsgopi/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/pbsgopi/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
 |  |
@@ -387,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1508-longest-happy-prefix](https://github.com/pbsgopi/leetcode/tree/master/1508-longest-happy-prefix) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pbsgopi/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pbsgopi/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1923-sentence-similarity-iii](https://github.com/pbsgopi/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/pbsgopi/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pbsgopi/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pbsgopi/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
