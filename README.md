@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1078-remove-outermost-parentheses](https://github.com/pbsgopi/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pbsgopi/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/pbsgopi/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/pbsgopi/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/pbsgopi/leetcode/tree/master/2846-robot-collisions) |
 ## Simulation
 |  |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/pbsgopi/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/pbsgopi/leetcode/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/pbsgopi/leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/pbsgopi/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/pbsgopi/leetcode/tree/master/2846-robot-collisions) |
 ## Linked List
 |  |
@@ -395,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pbsgopi/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/pbsgopi/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/pbsgopi/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/pbsgopi/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3207-make-three-strings-equal](https://github.com/pbsgopi/leetcode/tree/master/3207-make-three-strings-equal) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pbsgopi/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pbsgopi/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
