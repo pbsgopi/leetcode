@@ -313,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1207-delete-nodes-and-return-forest](https://github.com/pbsgopi/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/pbsgopi/leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/pbsgopi/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/pbsgopi/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pbsgopi/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pbsgopi/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/pbsgopi/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -343,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/pbsgopi/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/pbsgopi/leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/pbsgopi/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/pbsgopi/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/pbsgopi/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/pbsgopi/leetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 ## Tree
@@ -413,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1170-shortest-common-supersequence](https://github.com/pbsgopi/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/pbsgopi/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pbsgopi/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/pbsgopi/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pbsgopi/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1508-longest-happy-prefix](https://github.com/pbsgopi/leetcode/tree/master/1508-longest-happy-prefix) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/pbsgopi/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
