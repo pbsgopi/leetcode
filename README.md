@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2727-number-of-senior-citizens](https://github.com/pbsgopi/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/pbsgopi/leetcode/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pbsgopi/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pbsgopi/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pbsgopi/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/pbsgopi/leetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/pbsgopi/leetcode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
@@ -489,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2035-count-sub-islands](https://github.com/pbsgopi/leetcode/tree/master/2035-count-sub-islands) |
 | [2411-spiral-matrix-iv](https://github.com/pbsgopi/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/pbsgopi/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pbsgopi/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/pbsgopi/leetcode/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/pbsgopi/leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 ## Graph
