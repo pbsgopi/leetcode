@@ -750,6 +750,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0595-big-countries](https://github.com/pbsgopi/leetcode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/pbsgopi/leetcode/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/pbsgopi/leetcode/tree/master/1153-product-sales-analysis-i) |
+| [1211-queries-quality-and-percentage](https://github.com/pbsgopi/leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1258-article-views-i](https://github.com/pbsgopi/leetcode/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/pbsgopi/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1801-average-time-of-process-per-machine](https://github.com/pbsgopi/leetcode/tree/master/1801-average-time-of-process-per-machine) |
