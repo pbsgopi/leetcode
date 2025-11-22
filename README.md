@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/pbsgopi/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2727-number-of-senior-citizens](https://github.com/pbsgopi/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/pbsgopi/leetcode/tree/master/2846-robot-collisions) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pbsgopi/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pbsgopi/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pbsgopi/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pbsgopi/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -613,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1240-stone-game-ii](https://github.com/pbsgopi/leetcode/tree/master/1240-stone-game-ii) |
 | [2155-find-missing-observations](https://github.com/pbsgopi/leetcode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/pbsgopi/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pbsgopi/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search Tree
 |  |
 | ------- |
